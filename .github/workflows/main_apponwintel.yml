@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'apponwintel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E42A057732954336A517485A7BA4A118 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D84903AA3E304547B2BD9AD7515F36FF }}
           package: .
